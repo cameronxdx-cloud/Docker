@@ -1,3 +1,5 @@
+*These are my quick notes before organizing* 
+
 Deployed the Portainer docker container on Server 'Helix' 
 
 Docker is a powerful platform designed to streamline the development, deployment, and running of applications through the use of containers.
@@ -20,3 +22,6 @@ https://portainer.cameronxdx.net
 ![](attachments/Pasted%20image%2020250131121441.png)
 
 ![](attachments/Pasted%20image%2020250131121513.png)
+
+`curl -fsSL https://get.docker.com -o get-docker.sh`
+`sudo sh get-docker.sh`
