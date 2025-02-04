@@ -1,7 +1,11 @@
+https://1drv.ms/u/c/6ed2992fb8a40aa1/EQTzRLKJJBtImNB2wdr-LwIBzM6uXg3PHZGicQdDvlSJMg?e=VcDB6x
 ip a
 
 docker network ls 
 
 docker compose up -d (in correct directory)
 
-[Docker Compose Quick Commands](file:///C:/Users/Dayna%20Dilger/Documents/HTMTL%20Cheatsheets/docker_compose_guide.html)
+sudo chmod +rwx
+
+docker ps -a - containers running
+ docker rm 2f908ed66214 --force
