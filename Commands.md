@@ -1,4 +1,6 @@
-https://1drv.ms/u/c/6ed2992fb8a40aa1/EQTzRLKJJBtImNB2wdr-LwIBzM6uXg3PHZGicQdDvlSJMg?e=VcDB6x
+
+https://1drv.ms/u/c/6ed2992fb8a40aa1/EQTzRLKJJBtImNB2wdr-LwIBzM6uXg3PHZGicQdDvlSJMg?e=srn6Uw
+
 ip a
 
 docker network ls 

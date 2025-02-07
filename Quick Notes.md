@@ -28,6 +28,6 @@ https://portainer.cameronxdx.net
 
 # MACVLAN
  is a network driver used in containerized environments like Docker. It allows you to assign a unique MAC address to each container's virtual network interface, making it appear as if it's directly connected to the physical network. This can be useful for applications that need to expect to be directly connected to the physical network.
- .
+ 
  Direct Network Access: Containers using MACVLAN can communicate directly with the physical network, bypassing the host's network stack
 
