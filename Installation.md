@@ -1,6 +1,6 @@
 ## First Steps:
 1. Spun up a Linux Fedora Server on Proxmox 
-2. SSH username@ip
+2. SSH username@ipofserver 
 3. Created new user
 	1. sudo useradd -m username 
 	2. sudo passwd username 
@@ -10,7 +10,7 @@
 	5. Install docker 
 		1. `curl -fsSL [](https://get.docker.com "https://get.docker.com/")[https://get.docker.com](https://get.docker.com "https://get.docker.com/") -o get-docker.sh`  
   
-		`sudo sh get-docker.sh`
+		2. `sudo sh get-docker.sh`
 	6. Install docker-compose plugin 
 		1. sudo dnf install docker-compose-plugin -y
 
