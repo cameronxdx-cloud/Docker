@@ -160,9 +160,37 @@
               "icon": "lucide-file",
               "title": "radarr.docker-compose.yml"
             }
+          },
+          {
+            "id": "0f5412634ed6c56e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks/traefik.docker-compose.yml.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "traefik.docker-compose.yml"
+            }
+          },
+          {
+            "id": "51ccff5befc724f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks/watchyourlan.docker-compose.yml.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "watchyourlan.docker-compose.yml"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -310,10 +338,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b3568cd2575895a",
+  "active": "51ccff5befc724f3",
   "lastOpenFiles": [
-    "Stacks/qbittorrent.docker-compose.yml.md",
+    "Stacks/traefik.docker-compose.yml.md",
+    "Stacks/watchyourlan.docker-compose.yml.md",
     "Stacks/radarr.docker-compose.yml.md",
+    "Stacks/qbittorrent.docker-compose.yml.md",
     "Stacks/organizr.docker-compse.yml.md",
     "Commands.md",
     "Quick Notes.md",
