@@ -118,9 +118,51 @@
               "icon": "lucide-file",
               "title": "Commands"
             }
+          },
+          {
+            "id": "97245816944e19e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks/organizr.docker-compse.yml.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "organizr.docker-compse.yml"
+            }
+          },
+          {
+            "id": "bb26aea78bd15257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks/qbittorrent.docker-compose.yml.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "qbittorrent.docker-compose.yml"
+            }
+          },
+          {
+            "id": "5b3568cd2575895a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks/radarr.docker-compose.yml.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "radarr.docker-compose.yml"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -268,8 +310,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5af8f5964d1c7b3",
+  "active": "5b3568cd2575895a",
   "lastOpenFiles": [
+    "Stacks/qbittorrent.docker-compose.yml.md",
+    "Stacks/radarr.docker-compose.yml.md",
+    "Stacks/organizr.docker-compse.yml.md",
+    "Commands.md",
     "Quick Notes.md",
     "Installation.md",
     "Stacks/gitlab.docker-compose.yml.md",
@@ -278,7 +324,6 @@
     "Stacks/authentik-docker.compose.yml.md",
     "Stacks/adguard-docker.compose.yml.md",
     "Stacks",
-    "Commands.md",
     "attachments/Pasted image 20250131121513.png",
     "attachments/Pasted image 20250131121441.png",
     "attachments"
