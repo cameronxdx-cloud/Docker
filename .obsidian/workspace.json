@@ -55,16 +55,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "St.md",
+                "file": "Stacks/adguard-docker.compose.yml.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "St"
+              "title": "adguard-docker.compose.yml"
+            }
+          },
+          {
+            "id": "2d38f38201333690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks/authentik-docker.compose.yml.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "authentik-docker.compose.yml"
+            }
+          },
+          {
+            "id": "6bea0cd407bb26b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks/browser.docker-compose.yml.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "browser.docker-compose.yml"
+            }
+          },
+          {
+            "id": "154bf4fce91610c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks/jellyfin.docker-compose.yml.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jellyfin.docker-compose.yml"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -212,12 +254,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a31d931771678b07",
+  "active": "154bf4fce91610c6",
   "lastOpenFiles": [
+    "Stacks/browser.docker-compose.yml.md",
+    "Stacks/jellyfin.docker-compose.yml.md",
+    "Stacks/authentik-docker.compose.yml.md",
+    "Stacks/adguard-docker.compose.yml.md",
+    "Stacks",
     "Installation.md",
     "Commands.md",
     "Quick Notes.md",
-    "St.md",
     "attachments/Pasted image 20250131121513.png",
     "attachments/Pasted image 20250131121441.png",
     "attachments"
