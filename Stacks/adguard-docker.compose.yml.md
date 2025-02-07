@@ -1,3 +1,4 @@
+```
 `services:
   adguard:
     image: adguard/adguardhome
@@ -29,3 +30,4 @@ networks:
   internal-net:
    name: traefik_default
    external: true`
+```
