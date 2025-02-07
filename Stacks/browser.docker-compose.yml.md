@@ -1,3 +1,4 @@
+```
 `services:
   chromium:
     image: lscr.io/linuxserver/chromium:latest
@@ -39,4 +40,5 @@ networks:
   external: true
  Traefik:
   name: traefik_network
-  external: true`
+  external: true
+```

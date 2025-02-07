@@ -1,3 +1,4 @@
+```
 `services:
   postgresql:
     image: docker.io/library/postgres:12-alpine
@@ -118,3 +119,4 @@ networks:
   name: traefik_default
   external: true
  internal:`
+```

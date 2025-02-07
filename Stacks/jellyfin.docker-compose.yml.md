@@ -1,3 +1,4 @@
+```
 `services:
     linuxserver:
         privileged: true
@@ -58,3 +59,4 @@ volumes:
     type: "nfs"
     o: "addr=192.168.50.203,rw,noatime,rsize=8192,wsize=8192,tcp,timeo=14,nfsvers=4"
     device: ":/TV Shows"`
+```
