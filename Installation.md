@@ -8,7 +8,8 @@
 	4. Installed Navigator 
 		1. sudo dnf install cockpit-navigator -y
 	5. Install docker 
-		1. `curl -fsSL [](https://get.docker.com "https://get.docker.com/")[https://get.docker.com](https://get.docker.com "https://get.docker.com/") -o get-docker.sh`  
+		1. curl -fsSL https://get.docker.com -o get-docker.sh
+ 
   
 		2. `sudo sh get-docker.sh`
 	6. Install docker-compose plugin 

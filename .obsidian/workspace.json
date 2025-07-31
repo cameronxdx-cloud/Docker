@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stacks/watchyourlan.docker-compose.yml.md",
+                "file": "Installation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "watchyourlan.docker-compose.yml"
+              "title": "Installation"
             }
           }
         ],
@@ -340,8 +340,8 @@
   },
   "active": "51ccff5befc724f3",
   "lastOpenFiles": [
-    "Stacks/traefik.docker-compose.yml.md",
     "Stacks/watchyourlan.docker-compose.yml.md",
+    "Stacks/traefik.docker-compose.yml.md",
     "Stacks/radarr.docker-compose.yml.md",
     "Stacks/qbittorrent.docker-compose.yml.md",
     "Stacks/organizr.docker-compse.yml.md",
