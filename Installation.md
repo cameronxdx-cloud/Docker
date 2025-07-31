@@ -52,7 +52,3 @@ After adjusting the permissions, restart Cockpit to apply the changes:
 sudo systemctl restart cockpit
 ```
 
-### Verify Permissions
-Try logging into Cockpit again and attempt to escalate to admin. If you're still encountering issues, please provide any additional error messages or logs from Cockpit. This will help in diagnosing the problem further.
-
-If you need any more guidance or run into any issues, I'm here to help!
