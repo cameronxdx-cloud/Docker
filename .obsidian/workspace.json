@@ -329,6 +329,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -340,14 +341,14 @@
   },
   "active": "51ccff5befc724f3",
   "lastOpenFiles": [
+    "Commands.md",
+    "Installation.md",
     "Stacks/watchyourlan.docker-compose.yml.md",
     "Stacks/traefik.docker-compose.yml.md",
     "Stacks/radarr.docker-compose.yml.md",
     "Stacks/qbittorrent.docker-compose.yml.md",
     "Stacks/organizr.docker-compse.yml.md",
-    "Commands.md",
     "Quick Notes.md",
-    "Installation.md",
     "Stacks/gitlab.docker-compose.yml.md",
     "Stacks/jellyfin.docker-compose.yml.md",
     "Stacks/browser.docker-compose.yml.md",
